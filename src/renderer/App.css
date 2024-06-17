@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+body {
+  padding: 0 15px;
+}
+
+.test {
+  color: red;
+}
